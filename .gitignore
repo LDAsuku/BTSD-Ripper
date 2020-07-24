@@ -1,0 +1,21 @@
+# binaries
+*.exe
+*.pdb
+
+# outputs
+btsdripper-output.txt
+
+# all the testing roms and stuff from BTSD and GPS don't belong in the repo
+*.smc
+*.db
+*.dbk
+*.zip
+btsd044A
+gps*
+*.asm
+blocks
+routines
+libasar.so
+list.txt
+*.dsc
+*.bin
